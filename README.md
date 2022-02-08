@@ -7,7 +7,7 @@
 - 🔭 Je travaille actuellement sur [Projet HUT Analyse de mails](https://github.com/Gaiko19/HUT-INTER2HUT)  
   
 
-- 🌱 Always learning  
+- 🌱 Fais un serveur 
   
 
 <br/>  
