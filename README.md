@@ -44,15 +44,16 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaiko19&show_icons=true&count_private=true&hide_border=true" align="left" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaiko19&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiko19&theme=white" align="left" />
 
 </td></tr></table>  
 
 <br/>  
+
 
 
 ## Me contacter  
