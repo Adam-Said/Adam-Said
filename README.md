@@ -4,10 +4,10 @@
 ## <div align="center">👾 Etudiant en informatique et Web développeur 🖥️</div>  
   
 
-- 🔭 Je travaille actuellement sur [Projet HUT Analyse de mails](https://github.com/Gaiko19/HUT-INTER2HUT)  
+- 🔭 Je travaille actuellement sur [Projet HUT Analyse de mails](https://github.com/Gaiko19/INTER2-HUT)  
   
 
-- 🌱 Fais un serveur 
+- 🌱 Apprend Android Studio 📱 
 
 
 - 🌐 <a href="https://adam-net.fr/" target="_blank">Mon site</a>
