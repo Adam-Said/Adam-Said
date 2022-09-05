@@ -4,10 +4,10 @@
 ## <div align="center">👾 Etudiant en informatique et Web développeur 🖥️</div>  
   
 
-- 🔭 Travaille actuellement à [Eurafric Information](https://www.eurafric-information.com/)
+- 🔭 Master Génie Logiciel
   
 
-- 🌱 Apprend C# Devbooster et EJB
+- 🌱 Apprend Android Studio
 
 
 - 🌐 <a href="https://adam-net.fr/" target="_blank">Mon site</a>
