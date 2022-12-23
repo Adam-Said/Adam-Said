@@ -1,7 +1,7 @@
 # <div align="center">👋 Bonjour, je suis Adam S</div>  
   
 
-## <div align="center">👾 Etudiant en informatique et Web développeur 🖥️</div>  
+## <div align="center">👾 Etudiant en informatique 🖥️</div>  
   
 
 - 🔭 Master Génie Logiciel
@@ -40,19 +40,21 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaiko19&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiko19&theme=white" align="left" />
-
-</td></tr></table>  
-
-<br/>  
-
+<table>
+<thead>
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=Gaiko19&theme=dark&hide_border=true&include_all_commits=false&count_private=true" align="center" /></th>
+    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaiko19&theme=dark&hide_border=true" align="center" /></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiko19&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="center" /></td>
+  </tr>
+</tbody>
+</table>
 
 
 ## Me contacter  
