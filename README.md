@@ -7,7 +7,7 @@
 - 🔭 Master Génie Logiciel
   
 
-- 🌱 Apprend Android Studio
+- 🌱 Apprend React
 
 
 - 🌐 <a href="https://adam-net.fr/" target="_blank">Mon site</a>
