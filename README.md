@@ -58,13 +58,13 @@
 <table>
 <thead>
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=Gaiko19&theme=dark&hide_border=true&include_all_commits=false&count_private=true" align="center" /></th>
+    <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gaiko19&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center" /></th>
     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaiko19&theme=dark&hide_border=true" align="center" /></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiko19&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="center" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gaiko19&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="center" /></td>
   </tr>
 </tbody>
 </table>
