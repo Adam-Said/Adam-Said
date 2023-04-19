@@ -67,13 +67,13 @@
 <table>
 <thead>
   <tr>
-    <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gaiko19&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center" /></th>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaiko19&theme=dark&hide_border=true" align="center" /></th>
+    <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adam-Said&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center" /></th>
+    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-Said&theme=dark&hide_border=true" align="center" /></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gaiko19&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adam-Said&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></td>
   </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@
 
 ## Me contacter  
 <div align="center">
-<a href="https://github.com/Gaiko19" target="_blank">
+<a href="https://github.com/Adam-Said" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/AdamS_1901" target="_blank">
