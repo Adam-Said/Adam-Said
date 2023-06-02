@@ -7,7 +7,7 @@
 - 🔭 Master Génie Logiciel
   
 
-- 🌱 Apprends Angular
+- 🌱 Stage à La Poste DSI BSCC
 
 
 - 🌐 <a href="https://adam-net.fr/" target="_blank">Mon site</a>
