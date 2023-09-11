@@ -2,12 +2,11 @@
   
 
 ## <div align="center">👾 Etudiant en Génie Logiciel 🖥️</div>  
-  
+
+- 🌱 Product Owner & Tech Lead @LaPosteGroupe
+
 
 - 🔭 Master Génie Logiciel
-  
-
-- 🌱 Stage à La Poste DSI BSCC
 
 
 - 🌐 <a href="https://adam-net.fr/" target="_blank">Mon site</a>
