@@ -1,9 +1,7 @@
 # <div align="center">👋 Bonjour, je suis Adam S</div>  
-  
 
-## <div align="center">👾 Etudiant en Génie Logiciel 🖥️</div>  
 
-- 🌱 Product Owner & Tech Lead @LaPosteGroupe
+- 🌱 Product Owner @LaPosteGroupe
 
 
 - 🔭 Master Génie Logiciel
