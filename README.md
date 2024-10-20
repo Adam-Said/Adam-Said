@@ -1,7 +1,7 @@
 # <div align="center">👋 Bonjour, je suis Adam S</div>  
 
 
-- 🌱 Product Owner @LaPosteGroupe
+- 🌱 Chef de Projet @Softeam
 
 
 - 🔭 Master Génie Logiciel
