@@ -1,7 +1,7 @@
 # <div align="center">👋 Bonjour, je suis Adam S</div>  
 
 
-- 🌱 Chef de Projet @Softeam
+- 🌱 Business Analyst @CA-TS
 
 
 - 🔭 Master Génie Logiciel
